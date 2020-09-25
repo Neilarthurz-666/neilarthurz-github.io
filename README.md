@@ -1,2 +1,0 @@
-# neilarthurz-github.io
-website
